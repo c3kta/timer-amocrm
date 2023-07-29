@@ -14,6 +14,7 @@ const Timer = () => {
             let seconds = parseInt(input) % 60;
             setTime([hours, minutes, seconds]);
             setInput('');
+            setDone(false);
         }
     }
 
