@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.5e14c805.js",
-    "static/js/787.0cd65d97.chunk.js": "/static/js/787.0cd65d97.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.5e14c805.js.map": "/static/js/main.5e14c805.js.map",
-    "787.0cd65d97.chunk.js.map": "/static/js/787.0cd65d97.chunk.js.map"
+    "main.css": "/timer-amocrm/static/css/main.073c9b0a.css",
+    "main.js": "/timer-amocrm/static/js/main.5f118836.js",
+    "static/js/787.0cd65d97.chunk.js": "/timer-amocrm/static/js/787.0cd65d97.chunk.js",
+    "index.html": "/timer-amocrm/index.html",
+    "main.073c9b0a.css.map": "/timer-amocrm/static/css/main.073c9b0a.css.map",
+    "main.5f118836.js.map": "/timer-amocrm/static/js/main.5f118836.js.map",
+    "787.0cd65d97.chunk.js.map": "/timer-amocrm/static/js/787.0cd65d97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5e14c805.js"
+    "static/js/main.5f118836.js"
   ]
 }
